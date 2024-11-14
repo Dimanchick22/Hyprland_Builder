@@ -8,8 +8,8 @@
 ## Установка и использование
 1. **Клонирование репозитория с GitHub**:
    ```bash
-   git clone https://github.com/username/repo-name.git
-   cd repo-name
+   git clone https://github.com/Dimanchick22/Hyprland_Builder.git
+   cd Hyprland_Builder
    ```
 
 2. **Сборка программы**:
